@@ -1,0 +1,24 @@
+{
+	"$schema": "https://json.schemastore.org/tsconfig",
+	"compilerOptions": {
+		"allowJs": true,
+		"checkJs": true,
+		"declaration": true,
+		"exactOptionalPropertyTypes": true,
+		"incremental": true,
+		"jsx": "react-jsx",
+		"lib": ["dom", "dom.iterable", "es2021"],
+		"module": "nodenext",
+		"moduleResolution": "nodenext",
+		"noFallthroughCasesInSwitch": true,
+		"noImplicitReturns": true,
+		"noPropertyAccessFromIndexSignature": true,
+		"noUncheckedIndexedAccess": true,
+		"outDir": "dist",
+		"resolveJsonModule": true,
+		"skipLibCheck": true,
+		"strict": true,
+		"target": "es2021",
+		"verbatimModuleSyntax": true
+	}
+}
