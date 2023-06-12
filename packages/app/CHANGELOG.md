@@ -1,5 +1,12 @@
 # @acdh-oeaw/tsconfig
 
+## 1.0.1
+
+### Patch Changes
+
+- [`c52054a`](https://github.com/acdh-oeaw/tsconfig/commit/c52054ac1ed0fd316f174874dd5d81c0edbea790)
+  Thanks [@stefanprobst](https://github.com/stefanprobst)! - allow react-server export condition
+
 ## 1.0.0
 
 ### Major Changes
