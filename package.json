@@ -14,13 +14,13 @@
 	},
 	"devDependencies": {
 		"@acdh-oeaw/prettier-config": "^1.0.1",
-		"@changesets/changelog-github": "^0.4.8",
-		"@changesets/cli": "^2.26.2",
+		"@changesets/changelog-github": "^0.5.0",
+		"@changesets/cli": "^2.27.1",
 		"is-ci": "^3.0.1",
-		"lint-staged": "^13.2.3",
-		"npm-run-all2": "^6.0.6",
-		"prettier": "^3.0.0",
-		"simple-git-hooks": "^2.8.1"
+		"lint-staged": "^15.1.0",
+		"npm-run-all2": "^6.1.1",
+		"prettier": "^3.1.0",
+		"simple-git-hooks": "^2.9.0"
 	},
 	"lint-staged": {
 		"*": "prettier --cache --ignore-unknown --write"
