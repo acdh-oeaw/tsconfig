@@ -1,5 +1,15 @@
 # @acdh-oeaw/tsconfig
 
+## 1.0.2
+
+### Patch Changes
+
+- [`a5e7edd`](https://github.com/acdh-oeaw/tsconfig/commit/a5e7edd9e8f50d6865ce4e029f2f9a262fde4121)
+  Thanks [@stefanprobst](https://github.com/stefanprobst)! - bump target to es2023
+
+- [`a5e7edd`](https://github.com/acdh-oeaw/tsconfig/commit/a5e7edd9e8f50d6865ce4e029f2f9a262fde4121)
+  Thanks [@stefanprobst](https://github.com/stefanprobst)! - allow import with ts extension
+
 ## 1.0.1
 
 ### Patch Changes
