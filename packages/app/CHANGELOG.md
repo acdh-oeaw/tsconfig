@@ -1,5 +1,12 @@
 # @acdh-oeaw/tsconfig
 
+## 1.1.0
+
+### Minor Changes
+
+- [`18d8ce3`](https://github.com/acdh-oeaw/tsconfig/commit/18d8ce377031a23be317cbd3a73343ad818643a6)
+  Thanks [@stefanprobst](https://github.com/stefanprobst)! - use module preserve
+
 ## 1.0.2
 
 ### Patch Changes
