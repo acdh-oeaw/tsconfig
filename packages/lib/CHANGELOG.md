@@ -1,5 +1,12 @@
 # @acdh-oeaw/tsconfig-lib
 
+## 1.0.2
+
+### Patch Changes
+
+- [`a00577e`](https://github.com/acdh-oeaw/tsconfig/commit/a00577e5c71d2295f2bcd7e72bc468d33ff8e3cc)
+  Thanks [@stefanprobst](https://github.com/stefanprobst)! - enable module-detection force
+
 ## 1.0.1
 
 ### Patch Changes
