@@ -1,5 +1,12 @@
 # @acdh-oeaw/tsconfig-lib
 
+## 1.0.3
+
+### Patch Changes
+
+- [`2c9e081`](https://github.com/acdh-oeaw/tsconfig/commit/2c9e081a26946ec331a63edc87de79f36db09bf3)
+  Thanks [@stefanprobst](https://github.com/stefanprobst)! - enable allowImportingTsExtensions
+
 ## 1.0.2
 
 ### Patch Changes
