@@ -1,5 +1,13 @@
 # @acdh-oeaw/tsconfig
 
+## 1.2.0
+
+### Minor Changes
+
+- [`6475110`](https://github.com/acdh-oeaw/tsconfig/commit/6475110cb909ca07618c5bb471fece7889c53964)
+  Thanks [@stefanprobst](https://github.com/stefanprobst)! - bump minimum ts to v5.6, enable
+  noUncheckedSideEffectImports
+
 ## 1.1.1
 
 ### Patch Changes
