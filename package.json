@@ -5,7 +5,7 @@
 		"node": "20.x",
 		"pnpm": "9.x"
 	},
-	"packageManager": "pnpm@9.4.0",
+	"packageManager": "pnpm@9.10.0",
 	"scripts": {
 		"changeset:add": "changeset add",
 		"changeset:status": "changeset status --verbose",
@@ -28,6 +28,16 @@
 		"npm-run-all2": "^6.2.2",
 		"prettier": "^3.3.3",
 		"simple-git-hooks": "^2.11.1"
+	},
+	"pnpm": {
+		"overrides": {
+			"@commitlint/config-conventional": "$@commitlint/cli"
+		},
+		"updateConfig": {
+			"ignoreDependencies": [
+				"@commitlint/cli"
+			]
+		}
 	},
 	"commitlint": {
 		"extends": "@acdh-oeaw/commitlint-config"
