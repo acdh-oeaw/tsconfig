@@ -1,5 +1,13 @@
 # @acdh-oeaw/tsconfig-lib
 
+## 1.1.1
+
+### Patch Changes
+
+- [`d1e1e0a`](https://github.com/acdh-oeaw/tsconfig/commit/d1e1e0a6df27b5d488245e1e1820f676e25dbb3a)
+  Thanks [@stefanprobst](https://github.com/stefanprobst)! - disable allowImportingTsExtensions
+  because it requires noEmit
+
 ## 1.1.0
 
 ### Minor Changes
