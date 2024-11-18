@@ -1,5 +1,13 @@
 # @acdh-oeaw/tsconfig
 
+## 1.3.0
+
+### Minor Changes
+
+- [`c9b9e7f`](https://github.com/acdh-oeaw/tsconfig/commit/c9b9e7f3a7a83565475417f4e6631be0977b594a)
+  Thanks [@stefanprobst](https://github.com/stefanprobst)! - enable allowArbitraryExtensions for app
+  config
+
 ## 1.2.0
 
 ### Minor Changes
