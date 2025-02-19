@@ -1,5 +1,13 @@
 # @acdh-oeaw/tsconfig
 
+## 1.4.0
+
+### Minor Changes
+
+- [`612f74c`](https://github.com/acdh-oeaw/tsconfig/commit/612f74ce936a71059584356ac07e47025d0d0a01)
+  Thanks [@stefanprobst](https://github.com/stefanprobst)! - enable rewriteRelativeImportExtensions
+  and require ts 5.7
+
 ## 1.3.0
 
 ### Minor Changes
