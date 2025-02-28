@@ -5,6 +5,7 @@
 		"allowJs": true,
 		"checkJs": true,
 		"declaration": true,
+		"erasableSyntaxOnly": true,
 		"exactOptionalPropertyTypes": true,
 		"incremental": true,
 		"jsx": "react-jsx",

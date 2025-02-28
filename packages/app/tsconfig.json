@@ -6,6 +6,7 @@
 		"allowJs": true,
 		"checkJs": true,
 		"customConditions": ["react-server"],
+		"erasableSyntaxOnly": true,
 		"exactOptionalPropertyTypes": false,
 		"incremental": true,
 		"jsx": "preserve",
