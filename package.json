@@ -3,9 +3,9 @@
 	"license": "MIT",
 	"engines": {
 		"node": "22.x",
-		"pnpm": "9.x"
+		"pnpm": "10.x"
 	},
-	"packageManager": "pnpm@9.13.2",
+	"packageManager": "pnpm@10.5.2",
 	"scripts": {
 		"changeset:add": "changeset add",
 		"changeset:status": "changeset status --verbose",
@@ -20,12 +20,13 @@
 	"devDependencies": {
 		"@acdh-oeaw/prettier-config": "^2.0.1",
 		"@changesets/changelog-github": "^0.5.1",
-		"@changesets/cli": "^2.28.0",
+		"@changesets/cli": "^2.28.1",
 		"is-ci": "^4.1.0",
 		"lint-staged": "^15.4.3",
 		"npm-run-all2": "^7.0.2",
-		"prettier": "^3.5.1",
-		"simple-git-hooks": "^2.11.1"
+		"prettier": "^3.5.2",
+		"simple-git-hooks": "^2.11.1",
+		"typescript": "^5.8.2"
 	},
 	"lint-staged": {
 		"*": "prettier --cache --ignore-unknown --write"
