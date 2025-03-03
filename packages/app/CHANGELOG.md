@@ -1,5 +1,12 @@
 # @acdh-oeaw/tsconfig
 
+## 1.5.0
+
+### Minor Changes
+
+- [`7994b3a`](https://github.com/acdh-oeaw/tsconfig/commit/7994b3a3dd9c97cbd6e72b523203ae10993d8b30)
+  Thanks [@stefanprobst](https://github.com/stefanprobst)! - enable erasableSyntaxOnly
+
 ## 1.4.0
 
 ### Minor Changes
