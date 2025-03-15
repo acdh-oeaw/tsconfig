@@ -1,5 +1,13 @@
 # @acdh-oeaw/tsconfig
 
+## 1.5.1
+
+### Patch Changes
+
+- [`9b1cbbc`](https://github.com/acdh-oeaw/tsconfig/commit/9b1cbbc1a1c2d6afc43d075b3de57e2e43ba698c)
+  Thanks [@stefanprobst](https://github.com/stefanprobst)! - don't enable
+  rewriteRelativeImportExtensions for now
+
 ## 1.5.0
 
 ### Minor Changes
