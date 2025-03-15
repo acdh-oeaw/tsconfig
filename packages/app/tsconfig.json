@@ -19,7 +19,7 @@
 		"noPropertyAccessFromIndexSignature": false,
 		"noUncheckedIndexedAccess": true,
 		"noUncheckedSideEffectImports": true,
-		"rewriteRelativeImportExtensions": true,
+		// "rewriteRelativeImportExtensions": true,
 		"skipLibCheck": true,
 		"strict": true,
 		"target": "es2022",
