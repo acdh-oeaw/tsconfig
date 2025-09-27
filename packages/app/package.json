@@ -2,6 +2,10 @@
 	"name": "@acdh-oeaw/tsconfig",
 	"version": "1.5.1",
 	"license": "MIT",
+	"repository": {
+		"type": "https://github.com/acdh-oeaw/tsconfig"
+	},
+	"type": "module",
 	"main": "./tsconfig.json",
 	"files": [
 		"./tsconfig.json"
