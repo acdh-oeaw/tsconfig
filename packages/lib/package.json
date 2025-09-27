@@ -3,7 +3,7 @@
 	"version": "1.3.0",
 	"license": "MIT",
 	"repository": {
-		"type": "https://github.com/acdh-oeaw/tsconfig-lib"
+		"type": "https://github.com/acdh-oeaw/tsconfig"
 	},
 	"type": "module",
 	"main": "./tsconfig.json",
